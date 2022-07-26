@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]((https://www.frontendmentor.io/solutions/responsive-3-column-card-component-acIV_zecl_))
+- Live Site URL: [Add live site URL here](https://teniolalilian.github.io/3-column-component-card-preview/)
 
 ## My process
 
@@ -52,7 +52,7 @@ I'm still not fully fluent with flexbox but i plan to work on more projects as t
 
 ## Author
 
-- Website - [Teniola Lilian](https://www.your-site.com)
+- Website - [Teniola Lilian](https://teniolalilian.github.io/3-column-component-card-preview/)
 - Frontend Mentor - [@teniola lilian](https://www.frontendmentor.io/profile/teniolalilian)
 - Twitter - [teniola_lilian](https://www.twitter.com/teniola_lilian)
 
